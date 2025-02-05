@@ -1,74 +1,97 @@
----
+<h1> Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-# 👋 Hi there, I'm Saipranath Gopathi!
-
-🚀 **Full-Stack Developer | Software Engineer | Cloud Enthusiast**  
-🌟 Passionate about building scalable, efficient, and user-friendly applications. Currently seeking **full-time opportunities** in **Full-Stack Development** or **Software Engineering**.
-
----
-
-## 🛠️ **About Me**
-- 🎓 **Master's in Software Engineering** from Northeastern University (GPA: 3.83)  
-- 💻 3+ years of professional experience in **software development**, **cloud computing**, and **API engineering**.  
-- 🌐 Skilled in **Java**, **Python**, **JavaScript**, **TypeScript**, and **C#**.  
-- ☁️ Certified in **AWS Solutions Architect Associate**, **Azure Fundamentals (AZ-900)**, and **Data Fundamentals (DP-900)**.  
-- 🔍 Actively looking for opportunities to contribute to impactful projects and grow as a developer.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=00FF00&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Developer;I'm+a+Cloud+Enthusiast;I+Love+Building+Scalable+Applications!">
+  </a>
+</p>
 
 ---
 
-## 💼 **Professional Experience**
-### **Graduate Assistant** @ Northeastern University (Jan 2024 - Dec 2024)  
-- Conducted coding sessions for 100+ students, focusing on **Object-Oriented Programming** and **Design Patterns**.  
-- Automated assignment workflows using **GitHub Actions**, improving efficiency and accuracy.
-
-### **Software Engineer** @ DXC Technology (Jul 2020 - Dec 2022)  
-- Developed and maintained **RESTful APIs** and **Azure-based applications**, improving performance by 35%.  
-- Automated Jira ticket creation using **Java Mail API**, saving 15 hours/week in manual effort.  
-- Migrated .NET applications to **Azure**, reducing costs by 40% and time-to-market by 25%.
-
-### **Software Engineer Intern** @ DRDO (Jan 2019 - Dec 2019)  
-- Built a logistics management system using **Java Spring Boot**, improving operational efficiency by 40%.  
-- Designed interactive dashboards with **Angular** and implemented secure **role-based access control**.
+### 👨‍💻 **About Me**
+- 👋 Hi, I’m **Saipranath Gopathi**  
+- 💼 **Full-Stack Developer** | **Software Engineer** | **Cloud Enthusiast**  
+- 🎓 **Master's in Software Engineering** at Northeastern University (GPA: 3.83)  
+- 💬 Talk to me about **Full-Stack Development**, **Cloud Computing**, and **DevOps**  
+- 🌟 Currently seeking **full-time opportunities** in **Full-Stack Development** or **Software Engineering**  
+- 🛠️ Passionate about building **scalable, efficient, and user-friendly applications**  
 
 ---
 
-## 🌟 **Highlighted Projects**
-### **Technical Content Aggregation Platform**  
-**Tech Stack:** FastAPI, Python, Next.js, MongoDB, Redis  
+### 🛠️ **Technical Skills**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
+
+---
+
+### 🏆 **Certifications**
+<p align="left">
+  <a href="https://www.credly.com/badges/71cb6a89-9d1a-4f82-9364-72a300d9729c" target="_blank">
+    <img alt="AWS Certified Solutions Architect – Associate" src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" style="width:100px;height:100px;">
+  </a>
+  <a href="https://www.credly.com/badges/4bead9bd-b209-4079-9d50-4eb2a8b92503" target="_blank">
+    <img alt="Microsoft Certified: Azure Fundamentals (AZ-900)" src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" style="width:100px;height:100px;">
+  </a>
+  <a href="https://www.credly.com/badges/8c7786a3-c337-4f99-9b7b-1e95b2f84d5a" target="_blank">
+    <img alt="Microsoft Certified: Azure Data Fundamentals (DP-900)" src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" style="width:100px;height:100px;">
+  </a>
+</p>
+
+---
+
+### 🌟 **Highlighted Projects**
+#### **Technical Content Aggregation Platform**
+- **Tech Stack:** FastAPI, Python, Next.js, MongoDB, Redis  
 - Built a platform aggregating **15,000+ job postings** and **1,000+ blog posts** from 25+ companies.  
 - Designed a scalable **RESTful API** with advanced search and filtering, achieving a 200ms response time.  
-- Reduced integration time for new sources by 70% using a universal scraper architecture.
 
-### **RESTful Services using Cloud**  
-**Tech Stack:** Spring Boot, PostgreSQL, AWS, Terraform, React  
+#### **RESTful Services using Cloud**
+- **Tech Stack:** Spring Boot, PostgreSQL, AWS, Terraform, React  
 - Developed a full-stack **assignment management system** with a microservices architecture.  
 - Automated AWS infrastructure setup using **Terraform** and **Pulumi**, streamlining deployments.  
-- Implemented CI/CD pipelines with **GitHub Actions**, reducing deployment time by 50%.
 
-### **Travilago**  
-**Tech Stack:** ReactJS, Redux, NodeJS, MongoDB  
+#### **Travilago**
+- **Tech Stack:** ReactJS, Redux, NodeJS, MongoDB  
 - Created a tour booking website with secure user authentication and admin dashboards.  
 - Improved administrative efficiency by 45% and reduced unauthorized access attempts by 90%.
 
 ---
 
-## 🧰 **Technical Skills**
-- **Languages:** Java, Python, JavaScript, TypeScript, C#, R, C, C++, Shell/Bash  
-- **Frameworks:** Spring Boot, Node.js, .NET Core, FastAPI, Django, Flask, Angular, React, Redux  
-- **Databases:** SQL (MySQL, PostgreSQL, Oracle), NoSQL (MongoDB, Redis, DynamoDB)  
-- **Cloud Services:** AWS (EKS, EC2, S3, RDS, Lambda), Azure, GCP  
-- **DevOps Tools:** Terraform, Pulumi, Docker, Kubernetes, Jenkins, GitHub Actions  
-- **Certifications:** AWS Solutions Architect Associate, AZ-900, DP-900  
+### 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saipranath&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saipranath&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saipranath&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 📫 **Let's Connect!**
-- 💼 [LinkedIn](https://www.linkedin.com/in/saipranath-gopathi/) 
-- 📧 Email: gopathi.s@northeastern.edu 
+### 🔥 **Recent Activity**
+<!--START_SECTION:activity-->
+1. 🎉 Opened a new issue in [your-repo-name](https://github.com/Saipranath/your-repo-name)
+2. 💪 Pushed code to [your-repo-name](https://github.com/Saipranath/your-repo-name)
+3. 🚀 Deployed [your-project-name](https://yourprojectlink.com)
+<!--END_SECTION:activity-->
 
 ---
 
-## ✨ **Fun Fact**
-When I’m not coding, you’ll find me exploring new tech blogs, solving puzzles, or experimenting with cloud-native tools!
-
----
+### 📫 **Let's Connect!**
+<p align="center">
+  <a href="https://www.linkedin.com/in/saipranath-gopathi" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:gopathi.s@northeastern.edu" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/Saipranath/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
+</p>
