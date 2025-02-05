@@ -62,12 +62,6 @@
 
 ---
 
-## 📈 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saipranath&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saipranath&layout=compact&theme=radical)
-
----
-
 ## 📫 **Let's Connect!**
 - 💼 [LinkedIn](https://www.linkedin.com/in/saipranath-gopathi/) 
 - 📧 Email: gopathi.s@northeastern.edu 
